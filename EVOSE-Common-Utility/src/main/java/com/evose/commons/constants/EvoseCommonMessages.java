@@ -1,6 +1,5 @@
 package com.evose.commons.constants;
 
-import org.springframework.stereotype.Component;
 
 public final class EvoseCommonMessages {
 
